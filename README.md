@@ -51,3 +51,12 @@ The performance of all models was evaluated using six primary metrics: **OA**, *
 ## 5. Weights
 (The trained model weights of our CoRe-SCD can be downloaded from the following link:
 https://drive.google.com/file/d/1LLK8LytVlD6lq6ea8dRi_JUhxhyOGHBV/view?usp=drive_link)
+
+---
+
+
+The code is mainly developed based on the public resources shared by Professor Lei Ding (https://github.com/DingLei14/SCanNet), which provided important references for this work, and we sincerely thank him for his generous support.
+
+
+
+
