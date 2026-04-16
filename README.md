@@ -39,7 +39,7 @@ To ensure the reproducibility of the results reported in the paper, all componen
 To ensure absolute fairness in horizontal comparisons, all comparative SOTA models (e.g., SCanNet, ChangeMamba, EGMS-Net, etc.) were re-trained from scratch in the identical hardware environment and with the same hyperparameter settings described above.
 
 ### Statistical Rigor
-The performance of all models was evaluated using four primary metrics: **OA**, **SeK**, **mIoU**, **Prec**,**Rec**and **F1**. To minimize the impact of random initialization errors and ensure the reliability of the evaluation, the reported results are the **average of three independent experiments** conducted on the test set.
+The performance of all models was evaluated using six primary metrics: **OA**, **SeK**, **mIoU**, **Prec**,**Rec**and **F1**. To minimize the impact of random initialization errors and ensure the reliability of the evaluation, the reported results are the **average of three independent experiments** conducted on the test set.
 
 ---
 
@@ -47,3 +47,7 @@ The performance of all models was evaluated using four primary metrics: **OA**, 
 (The full source code, including model definitions and training scripts, will be released upon formal acceptance of the manuscript.)
 
 ---
+
+## 5. Weights
+(The trained model weights of our CoRe-SCD can be downloaded from the following link:
+https://drive.google.com/file/d/1LLK8LytVlD6lq6ea8dRi_JUhxhyOGHBV/view?usp=drive_link)
